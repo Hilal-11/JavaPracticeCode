@@ -1,0 +1,210 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Peactice",
+            "request": "launch",
+            "mainClass": "Peactice",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "hilalPractice",
+            "request": "launch",
+            "mainClass": "hilalPractice",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "practiceOOps",
+            "request": "launch",
+            "mainClass": "practiceOOps",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "Static",
+            "request": "launch",
+            "mainClass": "Static",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "constructor",
+            "request": "launch",
+            "mainClass": "constructor",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "constructor_practice",
+            "request": "launch",
+            "mainClass": "constructor_practice",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "privateDemo",
+            "request": "launch",
+            "mainClass": "privateDemo",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "private_constructor",
+            "request": "launch",
+            "mainClass": "private_constructor",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "copy_constructor",
+            "request": "launch",
+            "mainClass": "copy_constructor",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "Parameterised_cons",
+            "request": "launch",
+            "mainClass": "Parameterised_cons",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "Default_cons",
+            "request": "launch",
+            "mainClass": "Default_cons",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "practiceCons",
+            "request": "launch",
+            "mainClass": "practiceCons",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "oops_practice_2",
+            "request": "launch",
+            "mainClass": "oops_practice_2",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "oops_practice",
+            "request": "launch",
+            "mainClass": "oops_practice",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "Constructor",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "secondOOps",
+            "request": "launch",
+            "mainClass": "secondOOps",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "practiceOps",
+            "request": "launch",
+            "mainClass": "practiceOps",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "MyClass",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "perfectNum",
+            "request": "launch",
+            "mainClass": "perfectNum",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "perfect",
+            "request": "launch",
+            "mainClass": "perfect",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "ASCII",
+            "request": "launch",
+            "mainClass": "ASCII",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "prac",
+            "request": "launch",
+            "mainClass": "prac",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumbersseries",
+            "request": "launch",
+            "mainClass": "PrimeNumbersseries",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "Febonacii",
+            "request": "launch",
+            "mainClass": "Febonacii",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "Plandrome",
+            "request": "launch",
+            "mainClass": "Plandrome",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "JAVA_c5686def"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "myClass",
+            "request": "launch",
+            "mainClass": "myClass",
+            "projectName": "JAVA_c5686def"
+        }
+    ]
+}

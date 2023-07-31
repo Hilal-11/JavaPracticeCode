@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "OOPS",
+        ".vscode/OOPS",
+        ".vscode",
+        ""
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
